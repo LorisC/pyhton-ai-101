@@ -1,0 +1,10 @@
+[project]
+name = "rag-101"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.4.1",
+    "pydantic-ai>=1.52.0",
+    "pydantic-settings>=2.12.0",
+]
